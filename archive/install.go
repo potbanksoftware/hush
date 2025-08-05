@@ -8,9 +8,9 @@ import (
 	"github.com/itchio/boar"
 	"github.com/itchio/savior"
 
-	"github.com/itchio/hush"
-	"github.com/itchio/hush/bfs"
-	"github.com/itchio/hush/intervalsaveconsumer"
+	"github.com/potbanksoftware/hush"
+	"github.com/potbanksoftware/hush/bfs"
+	"github.com/potbanksoftware/hush/intervalsaveconsumer"
 	"github.com/pkg/errors"
 )
 

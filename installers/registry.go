@@ -1,9 +1,9 @@
 package installers
 
 import (
-	"github.com/itchio/hush"
-	"github.com/itchio/hush/archive"
-	"github.com/itchio/hush/naked"
+	"github.com/potbanksoftware/hush"
+	"github.com/potbanksoftware/hush/archive"
+	"github.com/potbanksoftware/hush/naked"
 )
 
 func GetManager(typ hush.InstallerType) hush.Manager {

@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/itchio/hush/bfs"
+	"github.com/potbanksoftware/hush/bfs"
 )
 
 type InstallEventSink struct {

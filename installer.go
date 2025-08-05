@@ -8,7 +8,7 @@ import (
 	"github.com/itchio/boar"
 	"github.com/itchio/headway/state"
 	"github.com/itchio/httpkit/eos"
-	"github.com/itchio/hush/bfs"
+	"github.com/potbanksoftware/hush/bfs"
 	"github.com/itchio/savior"
 )
 

@@ -1,6 +1,6 @@
 package naked
 
-import "github.com/itchio/hush"
+import "github.com/potbanksoftware/hush"
 
 type Manager struct {
 }

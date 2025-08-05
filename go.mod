@@ -1,4 +1,4 @@
-module github.com/itchio/hush
+module github.com/potbanksoftware/hush
 
 go 1.13
 
